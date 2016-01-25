@@ -2,8 +2,10 @@
 //  AppDelegate.swift
 //  CustomSliderExample
 //
-//  Created by Christopher Davis on 1/24/16.
-//  Copyright © 2016 D2 Business Alliance, LLC. All rights reserved.
+//  Original Code provided by Mikael Konutgan
+//  http://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift
+//  Updated by Christopher Davis on 1/24/16 for XCode 7 and Swift 2.
+//  
 //
 
 import UIKit
